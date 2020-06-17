@@ -1,1 +1,13 @@
-# solidity_examples
+### Solidity examples
+- Auction.sol
+- BallotBasic.sol
+- BallotWithModifier.sol
+- BallotWithStages.sol
+- Bidder.sol
+- BidderData.sol
+- Changelog.txt
+- Coin.sol
+- Greeter.sol
+- Minter.sol
+- SimpleStorage.sol
+- StateTrans.sol 
